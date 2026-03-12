@@ -1,7 +1,6 @@
 # smart-parking-slot-system-2
 Smart Parking Slot Management System built with React, Node.js, Express, and MongoDB.  The system provides real-time slot monitoring, vehicle entry and exit management,  automatic billing, QR-based parking tickets, parking reports, slot map visualization,  and vehicle history tracking for efficient parking operations.
-# smart-parking-slot-system
-Smart Parking Slot Management System built with React, Node.js, Express, and MongoDB.  The system provides real-time slot monitoring, vehicle entry and exit management,  automatic billing, QR-based parking tickets, parking reports, slot map visualization,  and vehicle history tracking for efficient parking operations.
+
 # 🚗 Parking Lot Management System
 
 A web-based Parking Lot Management System designed to efficiently manage vehicle parking operations.  
