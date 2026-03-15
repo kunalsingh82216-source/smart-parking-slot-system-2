@@ -1,0 +1,1 @@
+{\n  \"name\": \"smart-parking-slot-system\",\n  \"private\": true,\n  \"workspaces\": [\n    \"frontend/*\",\n    \"backend/*\"\n  ],\n  \"scripts\": {\n    \"install\": \"npm install\",\n    \"start\": \"npm run --workspaces start\"\n  },\n  \"devDependencies\": {\n    \"@types/node\": \"^14.14.41\"\n  }\n}
